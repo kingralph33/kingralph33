@@ -17,6 +17,7 @@ This year (2020) I switched employers and now work for the Federal Government ma
 I started my company in 2020, King Ralph LLC with the intention to build applications and release to the public. In the beginning it will probably be websites, but eventually I will also add some iOS Apps.
 
 I am starting to get more free time after work so I plan on pushing to Github more now.  For my bootcamp I mainly used GitLab [KingRalph33](https://gitlab.com/kingralph33) because at the time Github did not allow multiple private repos. Since Github has made the change I mainly push to here.
+
 ---
 
 - 🔭 I’m currently working on my personal portfolio site [kingralph.dev](https://kingralph.dev) 👷🏿 🏗️ (not ready for production at the moment)
