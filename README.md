@@ -1,8 +1,9 @@
+<img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_memoji.jpg" alt="Ralph King Jr memoji" width=250px height=300px/>
+
 ### Hi there I'm Ralph 👋
 
 ### Brief History 📜
 In 2016, I made a career change from retail banking to the tech industry.  Started out in the help desk at [Skyline Technology Solutions](https://www.skylinenet.net/) while I worked on [Codecademy](https://www.codecademy.com/) and [FreeCodeCamp](https://www.freecodecamp.org/) lessons. I didn't stay in that department long. I was able to join the Internal Product team doing software quality assurance mainly using Javascript.
-<img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_memoji.jpg" alt="Ralph King Jr memoji" width=250px height=400px/>
 
 In 4th Qtr 2018, I attended [Coding Dojo](https://www.codingdojo.com/) where I was successful at passing their 2 stack curriculum. The first stack was Python with Flask and Django. The second was the MEAN (Mongo, Express, Angular (we used Angular 7), and Node) stack. I am very thankful for Coding Dojo. It was challenging but very fun and fulfilling.
 
