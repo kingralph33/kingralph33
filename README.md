@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Ralph 👋
+
+For my job, I mainly code in Java but I prefer JavaScript and Python. 
 
 <!--
 **kingralph33/kingralph33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
