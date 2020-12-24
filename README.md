@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_memoji.jpg" alt="Ralph King Jr memoji" width=250px height=300px/>
+
 ### Hi there I'm Ralph 👋
 
 ### Brief History 📜
