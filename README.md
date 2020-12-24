@@ -14,7 +14,7 @@ This year (2020) I switched employers and now work for the Federal Government ma
 
 ---
 ### Side Projects 🚧
-I started my company in 2020, King Ralph LLC with the intentions to build projects to release to the public. 
+I started my company in 2020, King Ralph LLC with the intention to build applications and release to the public. In the beginning it will probably be websites, but eventually I will also add some iOS Apps.
 
 - 🔭 I’m currently working on my personal portfolio site [kingralph.dev](https://kingralph.dev) 👷🏿 🏗️ (not ready for production at the moment)
 - 🌱 I’m currently learning [React](https://reactjs.org/)
