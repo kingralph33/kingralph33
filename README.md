@@ -19,6 +19,6 @@ I started my company in 2020, King Ralph LLC with the intention to build applica
 ---
 
 - 🔭 I’m currently working on my personal portfolio site [kingralph.dev](https://kingralph.dev) 👷🏿 🏗️ (not ready for production at the moment)
-- 🌱 I’m currently learning [React](https://reactjs.org/)
+- 🌱 I’m currently learning [React](https://reactjs.org/) and [Microsoft Azure](https://azure.microsoft.com/)
 - 📫 How to reach me: 📧 ralph@kingralph.dev | Twitter [@KingRalph33](https://twitter.com/KingRalph33) | LinkedIn [Ralph King Jr](https://www.linkedin.com/in/ralphkingjr/)
 
