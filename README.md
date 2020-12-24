@@ -2,6 +2,7 @@
 
 ### Hi there I'm Ralph 👋
 
+---
 ### Brief History 📜
 In 2016, I made a career change from retail banking to the tech industry.  Started out in the help desk at [Skyline Technology Solutions](https://www.skylinenet.net/) while I worked on [Codecademy](https://www.codecademy.com/) and [FreeCodeCamp](https://www.freecodecamp.org/) lessons. I didn't stay in that department long. I was able to join the Internal Product team doing software quality assurance mainly using Javascript.
 
@@ -11,6 +12,7 @@ After graduating from Coding Dojo 1st Qtr 2019, I remained at Skyline and transi
 
 This year (2020) I switched employers and now work for the Federal Government mainly utilizing Java.
 
+---
 ### Side Projects 🚧
 I started my company in 2020, King Ralph LLC with the intentions to build projects to release to the public. 
 
