@@ -10,7 +10,7 @@ In 4th Qtr 2018, I attended [Coding Dojo](https://www.codingdojo.com/) where I w
 
 After graduating from Coding Dojo 1st Qtr 2019, I remained at Skyline and transitioned to Jr Dev. It varied with each project which language was used, but in summary I worked in PHP, Javascript, some Python, and Java.
 
-This year (2020) I switched employers and now work for the Federal Government mainly utilizing Java.
+This year (2020) I switched employers and now work for the Federal Government mainly coding in Java.
 
 ---
 ### Side Projects 🚧
