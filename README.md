@@ -21,6 +21,6 @@ I am starting to get more free time after work so I plan on pushing to Github mo
 ---
 
 - 🔭 I’m currently working on my personal portfolio site [kingralph.dev](https://kingralph.dev) 👷🏿 🏗️ 
-- 🌱 I’m currently learning [React](https://reactjs.org/) and [Microsoft Azure](https://azure.microsoft.com/)
+- 🌱 I’m currently learning [React](https://reactjs.org/) and [AWS](https://aws.amazon.com/)
 - 📫 How to reach me: 📧 ralph@kingralph.dev | Twitter [@KingRalph33](https://twitter.com/KingRalph33) | LinkedIn [Ralph King Jr](https://www.linkedin.com/in/ralphkingjr/)
 
