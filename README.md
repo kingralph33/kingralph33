@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_king_memoji.png" alt="Ralph King Jr memoji" width=250px height=275px/>
 
-Hi 👋 My name is Ralph King 
+Hi 👋 My name is Ralph King :crown: 
 ===========================  
 
 Software Engineer 
