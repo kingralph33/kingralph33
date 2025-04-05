@@ -4,7 +4,7 @@
 
 ## Software Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=kingralph33&color=blueviolet)
+[![Resume](https://img.shields.io/badge/Resume-RalphKingJr-red?style=flat-square&logo=linkedin)](https://kingralphresume.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RalphKingJr-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ralphkingjr)
 [![Website](https://img.shields.io/badge/Website-kingralph.dev-green?style=flat-square&logo=google-chrome)](https://kingralph.dev)
 
@@ -73,14 +73,6 @@ DevOps          ████████░░░░░░░░░░   50%
   <a href="https://solidjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/kingralph33/kingralph33/blob/main/solidjs-logo.svg" alt="solidjs" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
-
----
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This will be automatically updated by a GitHub Action workflow -->
-<!--END_SECTION:activity-->
 
 ---
 
