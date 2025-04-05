@@ -1,10 +1,14 @@
 <img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_king_memoji.png" alt="Ralph King Jr memoji" width=250px height=275px/>
 
+<div align="left" width="60%">
+
 # Hi 👋 My name is Ralph King :crown:
 
 ## Software Engineer
 
-[![Resume](https://img.shields.io/badge/Resume-RalphKingJr-red?style=flat-square&logo=linkedin)](https://kingralphresume.com)
+</div>
+
+[![Resume](https://img.shields.io/badge/Resume-RalphKingJr-purple?style=flat-square&logo=linkedin)](https://kingralphresume.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RalphKingJr-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ralphkingjr)
 [![Website](https://img.shields.io/badge/Website-kingralph.dev-green?style=flat-square&logo=google-chrome)](https://kingralph.dev)
 
