@@ -1,10 +1,10 @@
-<img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_king_memoji.png" alt="Ralph King Jr memoji" width=250px height=275px/>
-
 # Hi 👋 My name is Ralph King :crown:
 
 [![Resume](https://img.shields.io/badge/Resume-RalphKingJr-purple?style=flat-square&logo=linkedin)](https://kingralphresume.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RalphKingJr-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ralphkingjr)
 [![Website](https://img.shields.io/badge/Website-kingralph.dev-green?style=flat-square&logo=google-chrome)](https://kingralph.dev)
+
+<img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_king_memoji.png" alt="Ralph King Jr memoji" width=250px height=275px/>
 
 In 2016, I made a career change from retail & small business banking to the tech industry. I started for the help desk at [Skyline Technology Solutions](https://www.skylinenet.net/) while working on lessons from [Codecademy](https://www.codecademy.com/) and [FreeCodeCamp](https://www.freecodecamp.org/). My time at the help desk was brief.
 I then joined the Internal Product team, focusing on software quality assurance primarily using Javascript. In the fourth quarter of 2018, I attended a coding BootCamp where I successfully passed their 2-stack curriculum. The first stack focused on Python with Flask and Django. The second stack covered the MEAN stack (Mongo, Express, Angular [we used Angular 7], and Node). It was challenging but very fun and fulfilling.
@@ -93,5 +93,4 @@ DevOps          ████████░░░░░░░░░░   50%
 <p>
   <a href="https://www.buymeacoffee.com/kingralph33"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kingralph33" /></a>
 </p>
-<br>
 <br>
