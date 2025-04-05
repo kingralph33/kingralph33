@@ -6,9 +6,9 @@
 
 <img align="right" src="https://github.com/kingralph33/kingralph33/blob/main/ralph_king_memoji.png" alt="Ralph King Jr memoji" width=250px height=275px/>
 
-In 2016, I made a career change from retail & small business banking to the tech industry. I started for the help desk at [Skyline Technology Solutions](https://www.skylinenet.net/) while working on lessons from [Codecademy](https://www.codecademy.com/) and [FreeCodeCamp](https://www.freecodecamp.org/). My time at the help desk was brief.
-I then joined the Internal Product team, focusing on software quality assurance primarily using Javascript. In the fourth quarter of 2018, I attended a coding BootCamp where I successfully passed their 2-stack curriculum. The first stack focused on Python with Flask and Django. The second stack covered the MEAN stack (Mongo, Express, Angular [we used Angular 7], and Node). It was challenging but very fun and fulfilling.
-After graduating, I remained at Skyline and transitioned to a junior software Developer role. The projects I worked on used various languages, including PHP, Javascript, Python, and Java. In 2020, I switched employers and now work for the Federal Government. It has been fun thus far. My experience has ranged from software testing (Java, Selenium, Javascript, Playwright) to DevOps (Openshift, Azure DevOps/Pipelines) and even leading development on an internal project. I am enjoying my career in Software.
+In 2016, I transitioned from retail and small business banking to the tech industry, starting at Skyline Technology Solutions as a help desk technician while learning from Codecademy and FreeCodeCamp. Shortly after, I joined the Internal Product team, focusing on software quality assurance with JavaScript. In late 2018, I completed a rigorous coding BootCamp, mastering Python (Flask, Django) and the MEAN stack (MongoDB, Express, Angular 7, Node.js).
+
+Post-graduation, I advanced to a junior software developer role at Skyline, working with PHP, JavaScript, Python, and Java. In 2020, I joined the Federal Government, where I’ve gained experience in software testing (Java, Selenium, JavaScript, Playwright), DevOps (OpenShift, Azure DevOps/Pipelines), and leading internal development projects as a Senior Software Engineer. My journey in software development has been both rewarding and exciting.
 
 ---
 
