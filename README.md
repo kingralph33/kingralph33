@@ -19,26 +19,12 @@ After graduating, I remained at Skyline and transitioned to a junior software De
 - 🌍 Based in Washington DC Metro Area
 - 🖥️ See my portfolio at [kingralph.dev](https://kingralph.dev)
 - ✉️ You can contact me at [ralph@kingralph.dev](mailto:ralph@kingralph.dev)
-- 🚀 Currently working on [A Budgeting App (Stay Tuned ...)](https://kingralph.dev)
-- 🧠 Learning more about design systems
-
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/YOUR-USERNAME/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingralph33&repo=YOUR-REPO-NAME-1&theme=tokyonight" />
-</a>
-<a href="https://github.com/YOUR-USERNAME/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingralph33&repo=YOUR-REPO-NAME-2&theme=tokyonight" />
-</a>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingralph33&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingralph33&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -100,8 +86,7 @@ DevOps          ████████░░░░░░░░░░   50%
 
 ### 🏆 Certifications
 
-- [Example Certification](https://example-cert-link) (YYYY)
-- [Example Certification 2](https://example-cert-link-2) (YYYY)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/kingjrralphfsis-8974/credentials/b9fc9f5037636b30) (2023)
 
 ---
 
