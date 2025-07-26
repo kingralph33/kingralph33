@@ -1,16 +1,27 @@
-# 👋 Hi, I’m Ralph King Jr
+# 👋 Hi, I'm Ralph King Jr
 
-AI/ML Engineer & Builder — focused on training and deploying real-world machine learning systems and LLM-powered applications using Python, FastAPI, Docker, and cloud infrastructure.
+**Software Engineer** with 5+ years building scalable solutions for government and enterprise clients. I specialize in replacing outdated systems with modern, efficient applications that deliver measurable impact.
 
-### 🛠 Current Projects
-- 🧠 Building a PDF Q&A chatbot using LangChain & ChromaDB
-- 🤖 Training ML models from scratch with Hands-On ML
-- 🔧 Learning MLOps with MLflow & Docker
+## 🚀 What I Build
+- **Enterprise web applications** serving thousands of federal government users
+- **Business automation systems** that streamline manual processes  
+- **Regulatory compliance platforms** ensuring 100% compliance rates
+- **Mission-critical systems** that save organizations significant costs
 
-### 🔗 My Work
-- 🌐 [Personal Site](https://kingralph.dev)
-- 📂 [AI Projects Repo](https://github.com/kingralph33/ai-builder-projects)
-- 💼 [LinkedIn](https://linkedin.com/in/ralph-king)
+## 🛠 Technology Stack
+
+**Backend Specialization**
+- Python • Django • PostgreSQL • REST APIs
+
+**Cloud & DevOps** 
+- AWS • Azure • OpenShift • Docker • CI/CD
+
+**Frontend & Full-Stack**
+- JavaScript • TypeScript • React • HTML/CSS
+
+## 🌐 Connect With Me
+- **Portfolio:** [kingralph.dev](https://kingralph.dev)
+- **Professional:** [LinkedIn](https://www.linkedin.com/in/ralphkingjr/)
 
 ---
-*“Always building. Always deploying.”*
+*Building systems that solve real problems with measurable impact.*
